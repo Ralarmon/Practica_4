@@ -1,0 +1,42 @@
+*{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+.caja1 {
+    border-width: 1%;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(85, 85, 204);
+    width: 98%;
+    height: 10%;
+    box-sizing: border-box;
+}
+
+.caja2 {
+    border: 1%;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(85, 85, 204);
+    float: left ;
+    width: 98%;
+    height: 30%;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.caja3 {
+    border: 1%;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(85, 85, 204);
+    float: left ;
+    width: 48%;
+    height: 30%;
+    position: relative;
+    box-sizing: border-box;
+}
